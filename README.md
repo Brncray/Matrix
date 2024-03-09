@@ -1,10 +1,10 @@
 # Discord oAuth 
 <br>
-# .ENV CONTENTS: \n
+# .ENV CONTENTS: 
 PORT=3001\n
 
 
-# Discord Application Details\n
+### Discord Application Details
 
 DISCORD_CLIENT_ID=\n
 DISCORD_CLIENT_SECRET=\n
